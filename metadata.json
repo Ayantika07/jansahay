@@ -1,0 +1,6 @@
+{
+  "name": "JanSahay",
+  "description": "JanSahay — Multilingual Citizen Portal for Government Schemes Discovery, Eligibility Checking, Grievance Registration & AI Assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
